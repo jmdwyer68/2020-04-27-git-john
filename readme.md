@@ -4,3 +4,11 @@
 - log one
 - diff 
 - to here
+
+- what is a remote 
+- some url
+- created github account
+- git origin master
+- git push origina master
+- moving HEAD 
+ 
