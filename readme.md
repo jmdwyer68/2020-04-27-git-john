@@ -11,4 +11,4 @@
 - git origin master
 - git push origina master
 - moving HEAD 
- 
+ - copying content from online.
