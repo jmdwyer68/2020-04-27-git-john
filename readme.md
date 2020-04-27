@@ -1,4 +1,6 @@
 - init
 - status
 - adding so more information
-
+- log one
+- diff 
+- to here
