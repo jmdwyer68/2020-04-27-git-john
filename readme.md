@@ -1,5 +1,7 @@
+
 -- different lesson title
-- init
+GIT lesson update readme title- notes for remote
+
 - status
 - adding so more information
 - log one
