@@ -1,4 +1,6 @@
-- init
+GIT lesson update readme title- 
+
+init, 
 - status
 - adding so more information
 - log one
